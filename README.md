@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project started with following the [Rails Guides]("https://guides.rubyonrails.org/getting_started.html") to start up a blog. This was to introduce me to Rails  and start wrapping my head around the MVC (model, view, controller).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The second part was to deploy this blog to hosting provider, in this case [fly.io]("https://fly.io/"), to learn about the process of having your rails app hosted on the web.
